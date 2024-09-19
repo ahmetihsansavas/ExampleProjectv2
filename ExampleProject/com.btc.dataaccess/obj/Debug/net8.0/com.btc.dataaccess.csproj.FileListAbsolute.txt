@@ -1,0 +1,17 @@
+C:\Users\ahsavas\source\repos\ExampleProject\com.btc.dataaccess\bin\Debug\net8.0\com.btc.dataaccess.deps.json
+C:\Users\ahsavas\source\repos\ExampleProject\com.btc.dataaccess\bin\Debug\net8.0\com.btc.dataaccess.runtimeconfig.json
+C:\Users\ahsavas\source\repos\ExampleProject\com.btc.dataaccess\bin\Debug\net8.0\com.btc.dataaccess.dll
+C:\Users\ahsavas\source\repos\ExampleProject\com.btc.dataaccess\bin\Debug\net8.0\com.btc.dataaccess.pdb
+C:\Users\ahsavas\source\repos\ExampleProject\com.btc.dataaccess\bin\Debug\net8.0\com.btc.type.dll
+C:\Users\ahsavas\source\repos\ExampleProject\com.btc.dataaccess\bin\Debug\net8.0\com.btc.type.pdb
+C:\Users\ahsavas\source\repos\ExampleProject\com.btc.dataaccess\obj\Debug\net8.0\com.btc.dataaccess.csproj.AssemblyReference.cache
+C:\Users\ahsavas\source\repos\ExampleProject\com.btc.dataaccess\obj\Debug\net8.0\com.btc.dataaccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahsavas\source\repos\ExampleProject\com.btc.dataaccess\obj\Debug\net8.0\com.btc.dataaccess.AssemblyInfoInputs.cache
+C:\Users\ahsavas\source\repos\ExampleProject\com.btc.dataaccess\obj\Debug\net8.0\com.btc.dataaccess.AssemblyInfo.cs
+C:\Users\ahsavas\source\repos\ExampleProject\com.btc.dataaccess\obj\Debug\net8.0\com.btc.dataaccess.csproj.CoreCompileInputs.cache
+C:\Users\ahsavas\source\repos\ExampleProject\com.btc.dataaccess\obj\Debug\net8.0\com.btc..1FF6CC9B.Up2Date
+C:\Users\ahsavas\source\repos\ExampleProject\com.btc.dataaccess\obj\Debug\net8.0\com.btc.dataaccess.dll
+C:\Users\ahsavas\source\repos\ExampleProject\com.btc.dataaccess\obj\Debug\net8.0\refint\com.btc.dataaccess.dll
+C:\Users\ahsavas\source\repos\ExampleProject\com.btc.dataaccess\obj\Debug\net8.0\com.btc.dataaccess.pdb
+C:\Users\ahsavas\source\repos\ExampleProject\com.btc.dataaccess\obj\Debug\net8.0\com.btc.dataaccess.genruntimeconfig.cache
+C:\Users\ahsavas\source\repos\ExampleProject\com.btc.dataaccess\obj\Debug\net8.0\ref\com.btc.dataaccess.dll

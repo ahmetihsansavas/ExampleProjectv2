@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="StackExchange.Redis" Version="2.8.0" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\com.btc.manager\com.btc.process.manager.csproj" />
+    <ProjectReference Include="..\com.btc.process.security\com.btc.process.security.csproj" />
+    <ProjectReference Include="..\com.btc.process.utility\com.btc.process.utility.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\com.btc.dataaccess\com.btc.process.dataaccess.csproj" />
+    <ProjectReference Include="..\com.btc.type\com.btc.process.type.csproj" />
+  </ItemGroup>
+
+</Project>

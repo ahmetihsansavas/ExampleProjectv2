@@ -1,0 +1,13 @@
+{
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft.AspNetCore": "Warning"
+    }
+  },
+  "AllowedHosts": "*",
+  "ConnectionStrings": {
+    "DefaultConnection": "Data Source=E-NB802;Initial Catalog=ExampleDb;Integrated Security=SSPI;TrustServerCertificate=True",
+    "Redis": "localhost:6379"
+  }
+}

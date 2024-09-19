@@ -1,0 +1,12 @@
+C:\Users\ahsavas\source\repos\ExampleProject\com.btc.type\bin\Debug\net8.0\com.btc.process.type.deps.json
+C:\Users\ahsavas\source\repos\ExampleProject\com.btc.type\bin\Debug\net8.0\com.btc.process.type.dll
+C:\Users\ahsavas\source\repos\ExampleProject\com.btc.type\bin\Debug\net8.0\com.btc.process.type.pdb
+C:\Users\ahsavas\source\repos\ExampleProject\com.btc.type\obj\Debug\net8.0\com.btc.process.type.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahsavas\source\repos\ExampleProject\com.btc.type\obj\Debug\net8.0\com.btc.process.type.AssemblyInfoInputs.cache
+C:\Users\ahsavas\source\repos\ExampleProject\com.btc.type\obj\Debug\net8.0\com.btc.process.type.AssemblyInfo.cs
+C:\Users\ahsavas\source\repos\ExampleProject\com.btc.type\obj\Debug\net8.0\com.btc.process.type.csproj.CoreCompileInputs.cache
+C:\Users\ahsavas\source\repos\ExampleProject\com.btc.type\obj\Debug\net8.0\com.btc.process.type.sourcelink.json
+C:\Users\ahsavas\source\repos\ExampleProject\com.btc.type\obj\Debug\net8.0\com.btc.process.type.dll
+C:\Users\ahsavas\source\repos\ExampleProject\com.btc.type\obj\Debug\net8.0\refint\com.btc.process.type.dll
+C:\Users\ahsavas\source\repos\ExampleProject\com.btc.type\obj\Debug\net8.0\com.btc.process.type.pdb
+C:\Users\ahsavas\source\repos\ExampleProject\com.btc.type\obj\Debug\net8.0\ref\com.btc.process.type.dll

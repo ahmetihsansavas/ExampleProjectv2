@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "com.btc.process.type/1.0.0": {
+        "runtime": {
+          "com.btc.process.type.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "com.btc.process.type/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,93 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "com.btc.process", "com.btc.process", "{083BA88F-1999-46FF-B1B7-DD441C7E8D3E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "com.btc.process.type", "com.btc.type\com.btc.process.type.csproj", "{3B4B07D9-C423-461C-A8BB-51B169DEA91C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "com.btc.process.dataaccess", "com.btc.dataaccess\com.btc.process.dataaccess.csproj", "{712E3215-E02C-4E7D-869C-469B4402F042}"
+	ProjectSection(ProjectDependencies) = postProject
+		{3B4B07D9-C423-461C-A8BB-51B169DEA91C} = {3B4B07D9-C423-461C-A8BB-51B169DEA91C}
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "com.btc.process.manager", "com.btc.manager\com.btc.process.manager.csproj", "{7B1F1856-5C81-4EA1-BF82-D4EA287A5B7B}"
+	ProjectSection(ProjectDependencies) = postProject
+		{3B4B07D9-C423-461C-A8BB-51B169DEA91C} = {3B4B07D9-C423-461C-A8BB-51B169DEA91C}
+		{712E3215-E02C-4E7D-869C-469B4402F042} = {712E3215-E02C-4E7D-869C-469B4402F042}
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "com.btc.app.system", "com.btc.app.system\com.btc.app.system.csproj", "{4A76214E-4527-4B49-A13C-EF334F4470F5}"
+	ProjectSection(ProjectDependencies) = postProject
+		{712E3215-E02C-4E7D-869C-469B4402F042} = {712E3215-E02C-4E7D-869C-469B4402F042}
+		{7B1F1856-5C81-4EA1-BF82-D4EA287A5B7B} = {7B1F1856-5C81-4EA1-BF82-D4EA287A5B7B}
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "com.btc.process.utility", "com.btc.process.utility\com.btc.process.utility.csproj", "{0D181EE0-6778-43EF-9DC6-C830F9270B20}"
+	ProjectSection(ProjectDependencies) = postProject
+		{3B4B07D9-C423-461C-A8BB-51B169DEA91C} = {3B4B07D9-C423-461C-A8BB-51B169DEA91C}
+		{7B1F1856-5C81-4EA1-BF82-D4EA287A5B7B} = {7B1F1856-5C81-4EA1-BF82-D4EA287A5B7B}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "com.btc.process.security", "com.btc.process.security\com.btc.process.security.csproj", "{294033D7-EF4D-452D-992C-5C50D87E8D89}"
+	ProjectSection(ProjectDependencies) = postProject
+		{712E3215-E02C-4E7D-869C-469B4402F042} = {712E3215-E02C-4E7D-869C-469B4402F042}
+		{7B1F1856-5C81-4EA1-BF82-D4EA287A5B7B} = {7B1F1856-5C81-4EA1-BF82-D4EA287A5B7B}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "com.btc.app.login", "com.btc.app.login\com.btc.app.login.csproj", "{147D21A2-4A12-4C30-8386-3087ED45CCC0}"
+	ProjectSection(ProjectDependencies) = postProject
+		{294033D7-EF4D-452D-992C-5C50D87E8D89} = {294033D7-EF4D-452D-992C-5C50D87E8D89}
+		{7B1F1856-5C81-4EA1-BF82-D4EA287A5B7B} = {7B1F1856-5C81-4EA1-BF82-D4EA287A5B7B}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B4B07D9-C423-461C-A8BB-51B169DEA91C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B4B07D9-C423-461C-A8BB-51B169DEA91C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B4B07D9-C423-461C-A8BB-51B169DEA91C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B4B07D9-C423-461C-A8BB-51B169DEA91C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{712E3215-E02C-4E7D-869C-469B4402F042}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{712E3215-E02C-4E7D-869C-469B4402F042}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{712E3215-E02C-4E7D-869C-469B4402F042}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{712E3215-E02C-4E7D-869C-469B4402F042}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B1F1856-5C81-4EA1-BF82-D4EA287A5B7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B1F1856-5C81-4EA1-BF82-D4EA287A5B7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B1F1856-5C81-4EA1-BF82-D4EA287A5B7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B1F1856-5C81-4EA1-BF82-D4EA287A5B7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A76214E-4527-4B49-A13C-EF334F4470F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A76214E-4527-4B49-A13C-EF334F4470F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A76214E-4527-4B49-A13C-EF334F4470F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A76214E-4527-4B49-A13C-EF334F4470F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D181EE0-6778-43EF-9DC6-C830F9270B20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D181EE0-6778-43EF-9DC6-C830F9270B20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D181EE0-6778-43EF-9DC6-C830F9270B20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D181EE0-6778-43EF-9DC6-C830F9270B20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{294033D7-EF4D-452D-992C-5C50D87E8D89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{294033D7-EF4D-452D-992C-5C50D87E8D89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{294033D7-EF4D-452D-992C-5C50D87E8D89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{294033D7-EF4D-452D-992C-5C50D87E8D89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{147D21A2-4A12-4C30-8386-3087ED45CCC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{147D21A2-4A12-4C30-8386-3087ED45CCC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{147D21A2-4A12-4C30-8386-3087ED45CCC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{147D21A2-4A12-4C30-8386-3087ED45CCC0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{3B4B07D9-C423-461C-A8BB-51B169DEA91C} = {083BA88F-1999-46FF-B1B7-DD441C7E8D3E}
+		{712E3215-E02C-4E7D-869C-469B4402F042} = {083BA88F-1999-46FF-B1B7-DD441C7E8D3E}
+		{7B1F1856-5C81-4EA1-BF82-D4EA287A5B7B} = {083BA88F-1999-46FF-B1B7-DD441C7E8D3E}
+		{0D181EE0-6778-43EF-9DC6-C830F9270B20} = {083BA88F-1999-46FF-B1B7-DD441C7E8D3E}
+		{294033D7-EF4D-452D-992C-5C50D87E8D89} = {083BA88F-1999-46FF-B1B7-DD441C7E8D3E}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AF58B580-C8AF-4B5E-9721-F0204A75EF5C}
+	EndGlobalSection
+EndGlobal

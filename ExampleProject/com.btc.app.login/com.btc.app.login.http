@@ -1,0 +1,6 @@
+@com.btc.app.login_HostAddress = http://localhost:5123
+
+GET {{com.btc.app.login_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

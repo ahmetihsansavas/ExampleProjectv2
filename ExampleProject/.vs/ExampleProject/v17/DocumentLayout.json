@@ -1,0 +1,236 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ahsavas\\source\\repos\\ExampleProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{147D21A2-4A12-4C30-8386-3087ED45CCC0}|com.btc.app.login\\com.btc.app.login.csproj|c:\\users\\ahsavas\\source\\repos\\exampleproject\\com.btc.app.login\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{147D21A2-4A12-4C30-8386-3087ED45CCC0}|com.btc.app.login\\com.btc.app.login.csproj|solutionrelative:com.btc.app.login\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D181EE0-6778-43EF-9DC6-C830F9270B20}|com.btc.process.utility\\com.btc.process.utility.csproj|c:\\users\\ahsavas\\source\\repos\\exampleproject\\com.btc.process.utility\\redis\\concrete\\rediscacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D181EE0-6778-43EF-9DC6-C830F9270B20}|com.btc.process.utility\\com.btc.process.utility.csproj|solutionrelative:com.btc.process.utility\\redis\\concrete\\rediscacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D181EE0-6778-43EF-9DC6-C830F9270B20}|com.btc.process.utility\\com.btc.process.utility.csproj|c:\\users\\ahsavas\\source\\repos\\exampleproject\\com.btc.process.utility\\redis\\abstract\\irediscacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D181EE0-6778-43EF-9DC6-C830F9270B20}|com.btc.process.utility\\com.btc.process.utility.csproj|solutionrelative:com.btc.process.utility\\redis\\abstract\\irediscacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A76214E-4527-4B49-A13C-EF334F4470F5}|com.btc.app.system\\com.btc.app.system.csproj|c:\\users\\ahsavas\\source\\repos\\exampleproject\\com.btc.app.system\\controllers\\systemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A76214E-4527-4B49-A13C-EF334F4470F5}|com.btc.app.system\\com.btc.app.system.csproj|solutionrelative:com.btc.app.system\\controllers\\systemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{294033D7-EF4D-452D-992C-5C50D87E8D89}|com.btc.process.security\\com.btc.process.security.csproj|c:\\users\\ahsavas\\source\\repos\\exampleproject\\com.btc.process.security\\middleware\\jwtconfigure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{294033D7-EF4D-452D-992C-5C50D87E8D89}|com.btc.process.security\\com.btc.process.security.csproj|solutionrelative:com.btc.process.security\\middleware\\jwtconfigure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{294033D7-EF4D-452D-992C-5C50D87E8D89}|com.btc.process.security\\com.btc.process.security.csproj|c:\\users\\ahsavas\\source\\repos\\exampleproject\\com.btc.process.security\\middleware\\authorizeattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{294033D7-EF4D-452D-992C-5C50D87E8D89}|com.btc.process.security\\com.btc.process.security.csproj|solutionrelative:com.btc.process.security\\middleware\\authorizeattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{294033D7-EF4D-452D-992C-5C50D87E8D89}|com.btc.process.security\\com.btc.process.security.csproj|c:\\users\\ahsavas\\source\\repos\\exampleproject\\com.btc.process.security\\middleware\\jwtmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{294033D7-EF4D-452D-992C-5C50D87E8D89}|com.btc.process.security\\com.btc.process.security.csproj|solutionrelative:com.btc.process.security\\middleware\\jwtmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D181EE0-6778-43EF-9DC6-C830F9270B20}|com.btc.process.utility\\com.btc.process.utility.csproj|c:\\users\\ahsavas\\source\\repos\\exampleproject\\com.btc.process.utility\\elasticsearch\\concrete\\elasticsearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D181EE0-6778-43EF-9DC6-C830F9270B20}|com.btc.process.utility\\com.btc.process.utility.csproj|solutionrelative:com.btc.process.utility\\elasticsearch\\concrete\\elasticsearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{712E3215-E02C-4E7D-869C-469B4402F042}|com.btc.dataaccess\\com.btc.process.dataaccess.csproj|c:\\users\\ahsavas\\source\\repos\\exampleproject\\com.btc.dataaccess\\dao\\system\\concrete\\userdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{712E3215-E02C-4E7D-869C-469B4402F042}|com.btc.dataaccess\\com.btc.process.dataaccess.csproj|solutionrelative:com.btc.dataaccess\\dao\\system\\concrete\\userdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{147D21A2-4A12-4C30-8386-3087ED45CCC0}|com.btc.app.login\\com.btc.app.login.csproj|c:\\users\\ahsavas\\source\\repos\\exampleproject\\com.btc.app.login\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{147D21A2-4A12-4C30-8386-3087ED45CCC0}|com.btc.app.login\\com.btc.app.login.csproj|solutionrelative:com.btc.app.login\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{147D21A2-4A12-4C30-8386-3087ED45CCC0}|com.btc.app.login\\com.btc.app.login.csproj|c:\\users\\ahsavas\\source\\repos\\exampleproject\\com.btc.app.login\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{147D21A2-4A12-4C30-8386-3087ED45CCC0}|com.btc.app.login\\com.btc.app.login.csproj|solutionrelative:com.btc.app.login\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{294033D7-EF4D-452D-992C-5C50D87E8D89}|com.btc.process.security\\com.btc.process.security.csproj|c:\\users\\ahsavas\\source\\repos\\exampleproject\\com.btc.process.security\\middleware\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{294033D7-EF4D-452D-992C-5C50D87E8D89}|com.btc.process.security\\com.btc.process.security.csproj|solutionrelative:com.btc.process.security\\middleware\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A76214E-4527-4B49-A13C-EF334F4470F5}|com.btc.app.system\\com.btc.app.system.csproj|c:\\users\\ahsavas\\source\\repos\\exampleproject\\com.btc.app.system\\hubs\\chat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A76214E-4527-4B49-A13C-EF334F4470F5}|com.btc.app.system\\com.btc.app.system.csproj|solutionrelative:com.btc.app.system\\hubs\\chat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 205,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IRedisCacheService.cs",
+              "DocumentMoniker": "C:\\Users\\ahsavas\\source\\repos\\ExampleProject\\com.btc.process.utility\\redis\\Abstract\\IRedisCacheService.cs",
+              "RelativeDocumentMoniker": "com.btc.process.utility\\redis\\Abstract\\IRedisCacheService.cs",
+              "ToolTip": "C:\\Users\\ahsavas\\source\\repos\\ExampleProject\\com.btc.process.utility\\redis\\Abstract\\IRedisCacheService.cs",
+              "RelativeToolTip": "com.btc.process.utility\\redis\\Abstract\\IRedisCacheService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T06:13:15.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RedisCacheService.cs",
+              "DocumentMoniker": "C:\\Users\\ahsavas\\source\\repos\\ExampleProject\\com.btc.process.utility\\redis\\Concrete\\RedisCacheService.cs",
+              "RelativeDocumentMoniker": "com.btc.process.utility\\redis\\Concrete\\RedisCacheService.cs",
+              "ToolTip": "C:\\Users\\ahsavas\\source\\repos\\ExampleProject\\com.btc.process.utility\\redis\\Concrete\\RedisCacheService.cs",
+              "RelativeToolTip": "com.btc.process.utility\\redis\\Concrete\\RedisCacheService.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T06:13:40.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JwtConfigure.cs",
+              "DocumentMoniker": "C:\\Users\\ahsavas\\source\\repos\\ExampleProject\\com.btc.process.security\\middleware\\JwtConfigure.cs",
+              "RelativeDocumentMoniker": "com.btc.process.security\\middleware\\JwtConfigure.cs",
+              "ToolTip": "C:\\Users\\ahsavas\\source\\repos\\ExampleProject\\com.btc.process.security\\middleware\\JwtConfigure.cs",
+              "RelativeToolTip": "com.btc.process.security\\middleware\\JwtConfigure.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwDIAAABxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T12:15:31.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthorizeAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\ahsavas\\source\\repos\\ExampleProject\\com.btc.process.security\\middleware\\AuthorizeAttribute.cs",
+              "RelativeDocumentMoniker": "com.btc.process.security\\middleware\\AuthorizeAttribute.cs",
+              "ToolTip": "C:\\Users\\ahsavas\\source\\repos\\ExampleProject\\com.btc.process.security\\middleware\\AuthorizeAttribute.cs",
+              "RelativeToolTip": "com.btc.process.security\\middleware\\AuthorizeAttribute.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T12:28:12.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "JwtMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\ahsavas\\source\\repos\\ExampleProject\\com.btc.process.security\\middleware\\JwtMiddleware.cs",
+              "RelativeDocumentMoniker": "com.btc.process.security\\middleware\\JwtMiddleware.cs",
+              "ToolTip": "C:\\Users\\ahsavas\\source\\repos\\ExampleProject\\com.btc.process.security\\middleware\\JwtMiddleware.cs",
+              "RelativeToolTip": "com.btc.process.security\\middleware\\JwtMiddleware.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABQAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T12:27:55.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserDAO.cs",
+              "DocumentMoniker": "C:\\Users\\ahsavas\\source\\repos\\ExampleProject\\com.btc.dataaccess\\Dao\\System\\Concrete\\UserDAO.cs",
+              "RelativeDocumentMoniker": "com.btc.dataaccess\\Dao\\System\\Concrete\\UserDAO.cs",
+              "ToolTip": "C:\\Users\\ahsavas\\source\\repos\\ExampleProject\\com.btc.dataaccess\\Dao\\System\\Concrete\\UserDAO.cs",
+              "RelativeToolTip": "com.btc.dataaccess\\Dao\\System\\Concrete\\UserDAO.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACIAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T06:47:55.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ElasticSearch.cs",
+              "DocumentMoniker": "C:\\Users\\ahsavas\\source\\repos\\ExampleProject\\com.btc.process.utility\\elasticsearch\\Concrete\\ElasticSearch.cs",
+              "RelativeDocumentMoniker": "com.btc.process.utility\\elasticsearch\\Concrete\\ElasticSearch.cs",
+              "ToolTip": "C:\\Users\\ahsavas\\source\\repos\\ExampleProject\\com.btc.process.utility\\elasticsearch\\Concrete\\ElasticSearch.cs",
+              "RelativeToolTip": "com.btc.process.utility\\elasticsearch\\Concrete\\ElasticSearch.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAwwDgAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T06:24:22.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ahsavas\\source\\repos\\ExampleProject\\com.btc.app.login\\Program.cs",
+              "RelativeDocumentMoniker": "com.btc.app.login\\Program.cs",
+              "ToolTip": "C:\\Users\\ahsavas\\source\\repos\\ExampleProject\\com.btc.app.login\\Program.cs",
+              "RelativeToolTip": "com.btc.app.login\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T06:16:17.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppSettings.cs",
+              "DocumentMoniker": "C:\\Users\\ahsavas\\source\\repos\\ExampleProject\\com.btc.process.security\\middleware\\AppSettings.cs",
+              "RelativeDocumentMoniker": "com.btc.process.security\\middleware\\AppSettings.cs",
+              "ToolTip": "C:\\Users\\ahsavas\\source\\repos\\ExampleProject\\com.btc.process.security\\middleware\\AppSettings.cs",
+              "RelativeToolTip": "com.btc.process.security\\middleware\\AppSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T13:23:47.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ahsavas\\source\\repos\\ExampleProject\\com.btc.app.login\\appsettings.json",
+              "RelativeDocumentMoniker": "com.btc.app.login\\appsettings.json",
+              "ToolTip": "C:\\Users\\ahsavas\\source\\repos\\ExampleProject\\com.btc.app.login\\appsettings.json",
+              "RelativeToolTip": "com.btc.app.login\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-06T13:20:26.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SystemController.cs",
+              "DocumentMoniker": "C:\\Users\\ahsavas\\source\\repos\\ExampleProject\\com.btc.app.system\\Controllers\\SystemController.cs",
+              "RelativeDocumentMoniker": "com.btc.app.system\\Controllers\\SystemController.cs",
+              "ToolTip": "C:\\Users\\ahsavas\\source\\repos\\ExampleProject\\com.btc.app.system\\Controllers\\SystemController.cs",
+              "RelativeToolTip": "com.btc.app.system\\Controllers\\SystemController.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAwwFUAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T13:15:37.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\ahsavas\\source\\repos\\ExampleProject\\com.btc.app.login\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "com.btc.app.login\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\ahsavas\\source\\repos\\ExampleProject\\com.btc.app.login\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "com.btc.app.login\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAADgvygAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T12:14:00.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Chat.cs",
+              "DocumentMoniker": "C:\\Users\\ahsavas\\source\\repos\\ExampleProject\\com.btc.app.system\\Hubs\\Chat.cs",
+              "RelativeDocumentMoniker": "com.btc.app.system\\Hubs\\Chat.cs",
+              "ToolTip": "C:\\Users\\ahsavas\\source\\repos\\ExampleProject\\com.btc.app.system\\Hubs\\Chat.cs",
+              "RelativeToolTip": "com.btc.app.system\\Hubs\\Chat.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T08:47:54.881Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
